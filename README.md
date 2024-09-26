@@ -1,1 +1,2 @@
 # FriendlyWrt-Docker
+在Docker中运行nanopi专用openwrt系统FriendlyWrt
